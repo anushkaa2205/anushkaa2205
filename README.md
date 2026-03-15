@@ -26,5 +26,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexaverse&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2&custom_title=Languages" height="165" alt="Languages Graph"  />
 </div>
 
-![snake gif](https://github.com/Alexaverse/Alexaverse/blob/output/snake.svg)
+![snake gif](https://github.com/anushkaa2205/anushkaa2205/blob/output/snake.svg)
 
