@@ -9,21 +9,10 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=anushkaa2205&label=PROFILE+VIEWS&color=FF2E97&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/anushkaa2205?label=FOLLOWERS&style=for-the-badge&color=B565FF&labelColor=0D1117" alt="Followers" />
 <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-8E2DE2?style=for-the-badge&labelColor=0D1117" alt="Focus" />
 <img src="https://img.shields.io/badge/BASED%20IN-PUNJAB,%20IN-FF2E97?style=for-the-badge&labelColor=0D1117" alt="Location" />
 
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/anushka-kumari-7a6727321/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:anushkaa22kumari@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FF2E97?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/anushkaa2205">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=B565FF" alt="GitHub" />
-</a>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:B565FF,100:FF2E97&height=3&section=header" width="100%" />
 
@@ -33,13 +22,19 @@
 
 ```js
 const anushka = {
-  role:     "Full-Stack Web Developer",
-  location: "Punjab, India 🇮🇳",
-  stack:    ["MERN", "Next.js", "Tailwind CSS"],
-  core:     ["Java", "C++", "DSA", "DBMS", "Operating Systems"],
-  building: ["symptom-checker", "serverless-todos", "spectrax"],
-  learning: "System design + shipping faster than I break things",
-  motto:    "Build it. Break it. Ship it. Repeat. 🔁"
+  role:         "Full-Stack Web Developer",
+  location:     "Punjab, India 🇮🇳",
+
+  languages:    ["JavaScript", "Java", "C++", "Python"],
+
+  technologies: ["React", "Next.js", "Node.js", "Express.js",
+                 "MongoDB", "Tailwind CSS"],
+
+  core:         ["DSA", "DBMS", "Operating Systems", "Computer Networks"],
+
+  building:     ["symptom-checker", "serverless-todos", "spectrax"],
+  learning:     "Data Structures & Algorithms — one pattern at a time",
+  motto:        "Build it. Break it. Ship it. Repeat. 🔁"
 };
 ```
 
@@ -47,7 +42,7 @@ const anushka = {
 
 🚀 &nbsp;I build **end-to-end web apps** — from the React front end all the way down to the API, the database and the deploy.
 
-🧠 &nbsp;I like the unglamorous stuff too: **operating systems, DSA and DBMS** — see my Resource Allocation Graph Simulator.
+🧠 &nbsp;I like the unglamorous stuff too: **operating systems, DSA, DBMS and computer networks**.
 
 🌐 &nbsp;Most of my projects ship **live**, not just to `main`. Vercel + Render are my happy places.
 
@@ -133,92 +128,7 @@ const anushka = {
 
 </div>
 
-## 🚀 &nbsp;Featured Projects
-
 <div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🩺 Symptom Checker
-**`JavaScript`** &nbsp;·&nbsp; ⭐ 2 &nbsp;·&nbsp; 🍴 1
-
-A web app that maps reported symptoms to possible conditions — my most-starred and most-forked project.
-
-[![Live](https://img.shields.io/badge/%E2%96%B6_Live_Demo-FF2E97?style=for-the-badge&logoColor=white)](https://symptom-checker-b53o.onrender.com/)
-[![Code](https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=B565FF)](https://github.com/anushkaa2205/symptom-checker)
-
-</td>
-<td width="50%" align="center">
-
-### ✨ Gemini Clone
-**`React`** &nbsp;·&nbsp; **`Gemini API`**
-
-A full Google Gemini interface clone built with React and wired to the live Gemini API.
-
-[![Live](https://img.shields.io/badge/%E2%96%B6_Live_Demo-FF2E97?style=for-the-badge&logoColor=white)](https://gemini-clone-psi.vercel.app)
-[![Code](https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=B565FF)](https://github.com/anushkaa2205/Gemini-Clone)
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-### ⚡ Serverless Todos
-**`JavaScript`** &nbsp;·&nbsp; **`Serverless`**
-
-A todo app built on a serverless architecture and deployed to Vercel — no server to babysit.
-
-[![Live](https://img.shields.io/badge/%E2%96%B6_Live_Demo-FF2E97?style=for-the-badge&logoColor=white)](https://serverless-todos-pi.vercel.app)
-[![Code](https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=B565FF)](https://github.com/anushkaa2205/serverless-todos)
-
-</td>
-<td width="50%" align="center">
-
-### 🕸️ Resource Allocation Graph Simulator
-**`JavaScript`** &nbsp;·&nbsp; ⭐ 1
-
-An OS-concepts visualiser for resource allocation graphs and deadlock detection.
-
-[![Code](https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=B565FF)](https://github.com/anushkaa2205/ResourceAllocationGraphSimulator)
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-### 🌈 Spectrax
-**`Web`** &nbsp;·&nbsp; **`Deployed`**
-
-Live on Vercel — one of my most recent full builds.
-
-[![Live](https://img.shields.io/badge/%E2%96%B6_Live_Demo-FF2E97?style=for-the-badge&logoColor=white)](https://spectrax-1.vercel.app)
-[![Code](https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=B565FF)](https://github.com/anushkaa2205/spectrax_1)
-
-</td>
-<td width="50%" align="center">
-
-### 🎬 Reelix
-**`JavaScript`**
-
-A media/reels experience built in JavaScript.
-
-[![Code](https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=B565FF)](https://github.com/anushkaa2205/Reelix)
-
-</td>
-</tr>
-</table>
-
-**More in the workshop →**
-[`mern-app`](https://github.com/anushkaa2205/mern-app) ·
-[`Weather-Pulse`](https://github.com/anushkaa2205/Weather-Pulse) ·
-[`StackIt`](https://github.com/anushkaa2205/StackIt) ·
-[`Launchpad`](https://github.com/anushkaa2205/Launchpad) ·
-[`obscura`](https://github.com/anushkaa2205/obscura) ·
-[`Netflix-clone`](https://github.com/anushkaa2205/Netflix-clone) ·
-[`bubble-game`](https://github.com/anushkaa2205/bubble-game) ·
-[`homicide-data-analysis`](https://github.com/anushkaa2205/homicide-data-analysis)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:B565FF,100:FF2E97&height=3&section=header" width="100%" />
 
