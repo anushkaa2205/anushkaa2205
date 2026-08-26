@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:B565FF,100:FF2E97&height=220&section=header&text=Anushka%20Kumari&fontSize=62&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Full-Stack%20Web%20Developer%20%E2%9A%A1%20MERN%20%7C%20Next.js%20%7C%20Tailwind&descAlignY=56&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:B565FF,100:FF2E97&height=220&section=header&text=Anushka%20Kumari&fontSize=62&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Full-Stack%20Web%20Developer&descAlignY=56&descSize=18" width="100%" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&color=FF2E97&center=true&vCenter=true&random=false&width=700&height=70&lines=Full-Stack+Web+Developer+%F0%9F%92%9C;MERN+%2B+Next.js+%2B+Tailwind+CSS;I+turn+coffee+into+deployed+apps+%E2%98%95;Building+in+public+from+Punjab%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&color=FF2E97&center=true&vCenter=true&random=false&width=700&height=70&lines=Full-Stack+Web+Developer+%F0%9F%92%9C;I+turn+coffee+into+deployed+apps+%E2%98%95;Building+in+public+from+Punjab%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -73,25 +73,11 @@ const anushka = {
 ## 📊 &nbsp;GitHub Universe
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anushkaa2205&show_icons=true&count_private=true&hide_border=true&title_color=FF2E97&icon_color=B565FF&text_color=C9D1D9&bg_color=0D1117&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkaa2205&layout=compact&langs_count=8&hide_border=true&title_color=FF2E97&text_color=C9D1D9&bg_color=0D1117" />
-
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=anushkaa2205&hide_border=true&background=0D1117&stroke=8E2DE2&ring=FF2E97&fire=FF2E97&currStreakLabel=B565FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anushkaa2205&bg_color=0D1117&color=FF2E97&line=B565FF&point=FFFFFF&area=true&area_color=8E2DE2&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
-
-</div>
-
-## 🏆 &nbsp;Trophy Case
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anushkaa2205&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" />
+<br/>
 
 </div>
 
@@ -119,11 +105,12 @@ const anushka = {
 
 <div align="center">
 
-| 🔭 Building | Open To | ⚡ Fun fact |
-|:---:|:---:|:---:|:---:|
-| Full-stack MERN + Next.js apps | Collabs, open source, internships | I ship to production before I write the README |
+| 🔭 Building  | 👯 Open To | ⚡ Fun fact |
+|:---:|:---:|:---:|
+| Full-stack MERN + Next.js apps | System design & scalable backends | Collabs, open source, internships | I ship to production before I write the README |
 
 </div>
+
 
 <div align="center">
 
