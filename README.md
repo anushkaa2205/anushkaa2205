@@ -24,15 +24,10 @@
 const anushka = {
   role:         "Full-Stack Web Developer",
   location:     "Punjab, India 🇮🇳",
-
-  languages:    ["JavaScript", "Java", "C++", "Python"],
-
-  technologies: ["React", "Next.js", "Node.js", "Express.js",
+  languages:    ["c++", "Java", "Javascript", "C", "Python"],
+  technologies: ["HTML", "CSS", "React", "Next.js", "Node.js", "Express.js",
                  "MongoDB", "Tailwind CSS"],
-
-  core:         ["DSA", "DBMS", "Operating Systems", "Computer Networks"],
-
-  building:     ["symptom-checker", "serverless-todos", "spectrax"],
+  core:         ["DBMS", "Operating Systems", "Computer Networks"],
   learning:     "Data Structures & Algorithms — one pattern at a time",
   motto:        "Build it. Break it. Ship it. Repeat. 🔁"
 };
@@ -48,8 +43,6 @@ const anushka = {
 
 🤝 &nbsp;Open to **collaborations, open-source and internships**.
 
-💬 &nbsp;Ask me about **React, Node, MongoDB, Next.js or Tailwind**.
-
 📫 &nbsp;Reach me at **anushkaa22kumari@gmail.com**
 
 <div align="center">
@@ -64,27 +57,15 @@ const anushka = {
 <img src="https://skillicons.dev/icons?i=js,html,css,java,cpp,python&theme=dark" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" />
 
 ### Backend &amp; Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
 
 ### Tools &amp; Deploy
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma&theme=dark" />
 
 <br/>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white)
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:B565FF,100:FF2E97&height=3&section=header" width="100%" />
 
 </div>
@@ -138,9 +119,9 @@ const anushka = {
 
 <div align="center">
 
-| 🔭 Building | 🌱 Learning | 👯 Open To | ⚡ Fun fact |
+| 🔭 Building | Open To | ⚡ Fun fact |
 |:---:|:---:|:---:|:---:|
-| Full-stack MERN + Next.js apps | System design & scalable backends | Collabs, open source, internships | I ship to production before I write the README |
+| Full-stack MERN + Next.js apps | Collabs, open source, internships | I ship to production before I write the README |
 
 </div>
 
@@ -155,10 +136,7 @@ const anushka = {
   <img src="https://img.shields.io/badge/Say_Hi_via_Email-FF2E97?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/><br/>
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
+<br/>
 <br/>
 
 **⭐ If a project here helped you, a star means a lot.**
