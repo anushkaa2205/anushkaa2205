@@ -24,7 +24,7 @@
 const anushka = {
   role:         "Full-Stack Web Developer",
   location:     "Punjab, India 🇮🇳",
-  languages:    ["c++", "Java", "Javascript", "C", "Python"],
+  languages:    ["C++", "Java", "Javascript", "C", "Python"],
   technologies: ["HTML", "CSS", "React", "Next.js", "Node.js", "Express.js",
                  "MongoDB", "Tailwind CSS"],
   core:         ["DBMS", "Operating Systems", "Computer Networks"],
