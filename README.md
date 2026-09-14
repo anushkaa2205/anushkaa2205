@@ -28,7 +28,7 @@ const anushka = {
   technologies: ["HTML", "CSS", "React", "Next.js", "Node.js", "Express.js",
                  "MongoDB", "Tailwind CSS"],
   core:         ["DBMS", "Operating Systems", "Computer Networks"],
-  learning:     "Data Structures & Algorithms — one pattern at a time",
+  learning:     "Data Structures & Algorithms, System Design",
   motto:        "Build it. Break it. Ship it. Repeat. 🔁"
 };
 ```
