@@ -1,0 +1,26 @@
+{
+  "user": "anushkaa2205",
+  "repos": [
+    "Netflix-clone",
+    "ResourceAllocationGraphSimulator",
+    "TO-DO-List",
+    "WISP",
+    "Weather-Pulse",
+    "Winter-Of-Code",
+    "bubble-game",
+    "medical-coding-env",
+    "mern-app",
+    "obscura",
+    "serverless-todos",
+    "symptom-checker",
+    "vault"
+  ],
+  "bytes": {
+    "Python": 704153,
+    "JavaScript": 353402,
+    "CSS": 165800,
+    "TypeScript": 163385,
+    "HTML": 133393,
+    "Shell": 9398
+  }
+}

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 194" width="480" height="194" role="img" aria-label="most used languages">
+<defs><style>text{font-family:'JetBrains Mono','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace}</style>
+<clipPath id="bar"><rect x="26" y="64" width="428" height="10" rx="5"/></clipPath></defs>
+<rect x="1" y="1" width="478" height="192" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<text x="26" y="40" fill="#FF2E97" style="font-size:17px;font-weight:600">most used languages</text>
+<rect x="26" y="64" width="428" height="10" rx="5" fill="#21262d"/>
+<g clip-path="url(#bar)">
+<rect x="26.00" y="64" width="197.54" height="10" fill="#3572A5"/>
+<rect x="223.04" y="64" width="99.39" height="10" fill="#f1e05a"/>
+<rect x="321.93" y="64" width="46.89" height="10" fill="#663399"/>
+<rect x="368.32" y="64" width="46.22" height="10" fill="#3178c6"/>
+<rect x="414.04" y="64" width="37.83" height="10" fill="#e34c26"/>
+<rect x="451.37" y="64" width="3.13" height="10" fill="#89e051"/>
+</g>
+<circle cx="32" cy="103" r="6" fill="#3572A5"/>
+<text x="46" y="108" fill="#c9d1d9" style="font-size:14px">Python</text>
+<text x="226" y="108" text-anchor="end" fill="#8b949e" style="font-size:14px">46.0%</text>
+<circle cx="252.0" cy="103" r="6" fill="#f1e05a"/>
+<text x="266.0" y="108" fill="#c9d1d9" style="font-size:14px">JavaScript</text>
+<text x="446.0" y="108" text-anchor="end" fill="#8b949e" style="font-size:14px">23.1%</text>
+<circle cx="32" cy="131" r="6" fill="#663399"/>
+<text x="46" y="136" fill="#c9d1d9" style="font-size:14px">CSS</text>
+<text x="226" y="136" text-anchor="end" fill="#8b949e" style="font-size:14px">10.8%</text>
+<circle cx="252.0" cy="131" r="6" fill="#3178c6"/>
+<text x="266.0" y="136" fill="#c9d1d9" style="font-size:14px">TypeScript</text>
+<text x="446.0" y="136" text-anchor="end" fill="#8b949e" style="font-size:14px">10.7%</text>
+<circle cx="32" cy="159" r="6" fill="#e34c26"/>
+<text x="46" y="164" fill="#c9d1d9" style="font-size:14px">HTML</text>
+<text x="226" y="164" text-anchor="end" fill="#8b949e" style="font-size:14px">8.7%</text>
+<circle cx="252.0" cy="159" r="6" fill="#89e051"/>
+<text x="266.0" y="164" fill="#c9d1d9" style="font-size:14px">Shell</text>
+<text x="446.0" y="164" text-anchor="end" fill="#8b949e" style="font-size:14px">0.6%</text>
+</svg>
