@@ -1,0 +1,49 @@
+{
+  "_note": "Edit this file, then run:  python scripts/build_assets.py   (from the repo root). Radar values (0-100) are placeholders: set them to how you honestly rate yourself.",
+
+  "window_title": "profile.sh --live",
+  "handle": "@anushkaa2205",
+
+  "portrait": {
+    "_help": "Photo at assets/photo.png (background removed works best) or assets/photo.jpg; placeholder silhouette if none. Photos need Pillow: pip install pillow. gamma < 1 brightens faces; grid = dot resolution.",
+    "files": ["assets/photo.png", "assets/photo.jpg", "assets/photo.jpeg"],
+    "grid": [190, 215],
+    "contrast": 1.25,
+    "brightness": 1.05,
+    "gamma": 0.62,
+    "sharpen": 120,
+    "invert": false
+  },
+
+  "info": [
+    ["Subject",        "Anushka Kumari"],
+    ["Role",           "Full-Stack Web Developer"],
+    ["Origin",         "Punjab · India"],
+    ["Education",      "—"],
+    ["Status",         "Building + Learning + Shipping"],
+    ["ToolChain",      "VS Code · Git · Postman · Figma"],
+    ["Core.Lang",      "C++ · Java · JavaScript · Python"],
+    ["Core.Frontend",  "React · Next.js · Tailwind · Vite"],
+    ["Core.Backend",   "Node.js · Express.js"],
+    ["Core.Database",  "MongoDB · MySQL"],
+    ["Core.Infra",     "Vercel · Render"],
+    ["Core.CS",        "DBMS · OS · Computer Networks"],
+    ["Grid.Mail",      "anushkaa22kumari@gmail.com"],
+    ["Grid.LinkedIn",  "/in/anushka-kumari-7a6727321"],
+    ["Grid.GitHub",    "anushkaa2205"]
+  ],
+
+  "footer_left": "ALL SYSTEMS NOMINAL",
+  "footer_right": "UTC+5:30 · PUNJAB NODE",
+
+  "radars": {
+    "skills": {
+      "title": "skills",
+      "axes": [["Frontend", 80], ["Backend", 75], ["Databases", 70], ["DSA", 65], ["Deploy", 70], ["System Design", 45]]
+    },
+    "languages": {
+      "title": "languages",
+      "axes": [["JavaScript", 85], ["C++", 75], ["Java", 65], ["Python", 60], ["C", 60]]
+    }
+  }
+}
