@@ -11,7 +11,7 @@
 
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&color=FF2E97&center=true&vCenter=true&random=false&width=700&height=70&lines=Anushka+Kumari+-+Full-Stack+Web+Developer;React+%2F+Node.js+%2F+MongoDB+%2F+Next.js;Frontend%2C+backend+and+everything+between" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&color=FF2E97&center=true&vCenter=true&random=false&width=700&height=70&lines=Anushka+Kumari+-+Full-Stack+Web+Developer;Frontend%2C+backend+and+everything+between;React+%2F+Node.js+%2F+MongoDB+%2F+Next.js" alt="Typing SVG">
 </a>
 
 <br>
