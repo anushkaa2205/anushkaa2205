@@ -80,7 +80,20 @@
 
 ## 📊 &nbsp;numbers matter? ohhh yes.
 
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anushkaa2205&show_icons=true&show=prs_merged&hide=prs,contribs&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=FF2E97&icon_color=B565FF&text_color=C9D1D9" alt="GitHub stats">
+
+</td>
+<td width="50%" align="center" valign="middle">
+
 <img src="https://streak-stats.demolab.com?user=anushkaa2205&hide_border=true&background=0D1117&stroke=8E2DE2&ring=FF2E97&fire=FF2E97&currStreakLabel=B565FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak">
+
+</td>
+</tr>
+</table>
 
 <br>
 
