@@ -16,7 +16,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=anushkaa2205&label=PROFILE+VIEWS&color=FF2E97&style=for-the-badge" alt="Profile views">
+<a href="https://hits.sh/github.com/anushkaa2205/"><img src="https://hits.sh/github.com/anushkaa2205.svg?style=for-the-badge&label=PROFILE%20VIEWS&extraCount=216&color=FF2E97&labelColor=0D1117" alt="Profile views"></a>
 <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-8E2DE2?style=for-the-badge&labelColor=0D1117" alt="Focus">
 <img src="https://img.shields.io/badge/BASED%20IN-PUNJAB,%20IN-FF2E97?style=for-the-badge&labelColor=0D1117" alt="Location">
 
