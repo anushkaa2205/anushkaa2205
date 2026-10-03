@@ -4,6 +4,7 @@
     "Netflix-clone",
     "ResourceAllocationGraphSimulator",
     "TO-DO-List",
+    "Udgam",
     "WISP",
     "Weather-Pulse",
     "Winter-Of-Code",
@@ -12,15 +13,14 @@
     "mern-app",
     "obscura",
     "serverless-todos",
-    "symptom-checker",
-    "vault"
+    "symptom-checker"
   ],
   "bytes": {
-    "Python": 704153,
-    "JavaScript": 353402,
-    "CSS": 165800,
-    "TypeScript": 163385,
+    "Python": 1497008,
+    "TypeScript": 461047,
+    "JavaScript": 358725,
+    "CSS": 173929,
     "HTML": 133393,
-    "Shell": 9398
+    "Shell": 11252
   }
 }
