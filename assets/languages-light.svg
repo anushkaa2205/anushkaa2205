@@ -5,29 +5,29 @@
 <text x="26" y="40" fill="#D6146F" style="font-size:17px;font-weight:600">most used languages</text>
 <rect x="26" y="64" width="428" height="10" rx="5" fill="#eaeef2"/>
 <g clip-path="url(#bar)">
-<rect x="26.00" y="64" width="197.54" height="10" fill="#3572A5"/>
-<rect x="223.04" y="64" width="99.39" height="10" fill="#f1e05a"/>
-<rect x="321.93" y="64" width="46.89" height="10" fill="#663399"/>
-<rect x="368.32" y="64" width="46.22" height="10" fill="#3178c6"/>
-<rect x="414.04" y="64" width="37.83" height="10" fill="#e34c26"/>
-<rect x="451.37" y="64" width="3.13" height="10" fill="#89e051"/>
+<rect x="26.00" y="64" width="243.62" height="10" fill="#3572A5"/>
+<rect x="269.12" y="64" width="75.38" height="10" fill="#3178c6"/>
+<rect x="344.00" y="64" width="58.76" height="10" fill="#f1e05a"/>
+<rect x="402.26" y="64" width="28.75" height="10" fill="#663399"/>
+<rect x="430.51" y="64" width="22.16" height="10" fill="#e34c26"/>
+<rect x="452.17" y="64" width="2.33" height="10" fill="#89e051"/>
 </g>
 <circle cx="32" cy="103" r="6" fill="#3572A5"/>
 <text x="46" y="108" fill="#24292f" style="font-size:14px">Python</text>
-<text x="226" y="108" text-anchor="end" fill="#57606a" style="font-size:14px">46.0%</text>
-<circle cx="252.0" cy="103" r="6" fill="#f1e05a"/>
-<text x="266.0" y="108" fill="#24292f" style="font-size:14px">JavaScript</text>
-<text x="446.0" y="108" text-anchor="end" fill="#57606a" style="font-size:14px">23.1%</text>
-<circle cx="32" cy="131" r="6" fill="#663399"/>
-<text x="46" y="136" fill="#24292f" style="font-size:14px">CSS</text>
-<text x="226" y="136" text-anchor="end" fill="#57606a" style="font-size:14px">10.8%</text>
-<circle cx="252.0" cy="131" r="6" fill="#3178c6"/>
-<text x="266.0" y="136" fill="#24292f" style="font-size:14px">TypeScript</text>
-<text x="446.0" y="136" text-anchor="end" fill="#57606a" style="font-size:14px">10.7%</text>
+<text x="226" y="108" text-anchor="end" fill="#57606a" style="font-size:14px">56.8%</text>
+<circle cx="252.0" cy="103" r="6" fill="#3178c6"/>
+<text x="266.0" y="108" fill="#24292f" style="font-size:14px">TypeScript</text>
+<text x="446.0" y="108" text-anchor="end" fill="#57606a" style="font-size:14px">17.5%</text>
+<circle cx="32" cy="131" r="6" fill="#f1e05a"/>
+<text x="46" y="136" fill="#24292f" style="font-size:14px">JavaScript</text>
+<text x="226" y="136" text-anchor="end" fill="#57606a" style="font-size:14px">13.6%</text>
+<circle cx="252.0" cy="131" r="6" fill="#663399"/>
+<text x="266.0" y="136" fill="#24292f" style="font-size:14px">CSS</text>
+<text x="446.0" y="136" text-anchor="end" fill="#57606a" style="font-size:14px">6.6%</text>
 <circle cx="32" cy="159" r="6" fill="#e34c26"/>
 <text x="46" y="164" fill="#24292f" style="font-size:14px">HTML</text>
-<text x="226" y="164" text-anchor="end" fill="#57606a" style="font-size:14px">8.7%</text>
+<text x="226" y="164" text-anchor="end" fill="#57606a" style="font-size:14px">5.1%</text>
 <circle cx="252.0" cy="159" r="6" fill="#89e051"/>
 <text x="266.0" y="164" fill="#24292f" style="font-size:14px">Shell</text>
-<text x="446.0" y="164" text-anchor="end" fill="#57606a" style="font-size:14px">0.6%</text>
+<text x="446.0" y="164" text-anchor="end" fill="#57606a" style="font-size:14px">0.4%</text>
 </svg>
