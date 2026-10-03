@@ -84,12 +84,22 @@
 <tr>
 <td width="50%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anushkaa2205&show_icons=true&show=prs_merged&hide=prs,contribs&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=FF2E97&icon_color=B565FF&text_color=C9D1D9" alt="GitHub stats">
+<!-- Refreshed every 3h by .github/workflows/refresh-stats.yml (scripts/build_stats.py) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
+  <img src="assets/stats-dark.svg" width="100%" alt="GitHub stats">
+</picture>
 
 </td>
 <td width="50%" align="center" valign="middle">
 
-<img src="https://streak-stats.demolab.com?user=anushkaa2205&hide_border=true&background=0D1117&stroke=8E2DE2&ring=FF2E97&fire=FF2E97&currStreakLabel=B565FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak">
+<!-- Refreshed every 3h by .github/workflows/refresh-stats.yml (scripts/build_stats.py) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/streak-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/streak-light.svg">
+  <img src="assets/streak-dark.svg" width="100%" alt="GitHub streak">
+</picture>
 
 </td>
 </tr>

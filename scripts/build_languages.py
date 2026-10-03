@@ -117,7 +117,7 @@ def main() -> None:
             data = fetch()
             DATA.write_text(json.dumps(data, indent=2) + "\n", encoding="utf-8")
         except Exception as e:  # network down / rate limited: keep the last good data
-            if not DATA.exists():
+            if not DATA.exists() or os.environ.get("CI"):  # in Actions: fail loudly
                 raise
             print(f"! GitHub API failed ({e}); redrawing from saved {DATA.name}")
             data = json.loads(DATA.read_text(encoding="utf-8"))
