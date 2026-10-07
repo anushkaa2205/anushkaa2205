@@ -12,6 +12,7 @@
     "medical-coding-env",
     "mern-app",
     "obscura",
+    "redix",
     "serverless-todos",
     "symptom-checker"
   ],
@@ -21,6 +22,8 @@
     "JavaScript": 358725,
     "CSS": 173929,
     "HTML": 133393,
-    "Shell": 11252
+    "C++": 14952,
+    "Shell": 11252,
+    "CMake": 379
   }
 }
